@@ -160,7 +160,7 @@ fun StudentScreen() {
         }
 
         if (students.isEmpty()) {
-            Text("Még mnincs felvett diák.")
+            Text("Még nincs felvett diák.")
         }
 
         LazyColumn(
